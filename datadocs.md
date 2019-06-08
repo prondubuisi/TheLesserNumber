@@ -56,5 +56,23 @@ penalising_text_indecency_other, promotion_or_morality_penal_code, promotion_or_
 max_sentences_1_month_to_2_years, max_sentences_3_years_to_7_years, max_sentences_8_years_to_13_years, 
 max_sentences_14_years_to_life,max_sentences_death, arrests_in_past_3_years_yes, ban_on_ngos_yes, nrhi_so_inclusive_yes, 
 nrhi_so_inclusive_no,nrhi_so_inclusive_unclear, nrhi_so_inclusive_none,protection_constitution, protection_employment,
-protection_other,	protection_hate_crime,	protection_incitemenrt,	protection_conversion_therapy_ban,	relationship_recognition_marriage,	relationship_recognition_civil_recognition,	relationship_recognition_joint_adoption,	relationship_recognition_2nd_parent_adoption|
- 
+protection_other,	protection_hate_crime,	protection_incitemenrt,	protection_conversion_therapy_ban,	relationship_recognition_marriage,	relationship_recognition_civil_recognition,	relationship_recognition_joint_adoption,	
+relationship_recognition_2nd_parent_adoption|
+*Boolean Values tells the state of each legal term related to sexual orientation
+
+| Issue                                   | Data Link | Status      | Range|
+|-----------------------------------------|-------------|-----------------|------------|
+|[Sexual orientation Data Summary](https://github.com/tapaswenipathak/TheLesserNumber/issues/26)|[Csv](https://github.com/prondubuisi/TheLesserNumber/blob/master/Global%20LGBTQIlawsData.csv)|Ready For Review| 2017 - 2019|
+|Field|Value|Example|
+|--|--|--|
+|COUNTRY|String|Nigeria|
+|2017|Boolean|true,false|
+|2019|Boolean|true,false|
+*Boolean Values tells if queer relationships are legal or not
+
+| Issue                                   | Data Link | Status      | Range|
+|-----------------------------------------|-------------|-----------------|------------|
+|[People With Disabilities](https://github.com/tapaswenipathak/TheLesserNumber/issues/25)|Null| Not Ready For Review|  - |
+|Field|Value|Example|
+|--|--|--|
+
