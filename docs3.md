@@ -37,7 +37,7 @@
 
 | Issue                                   | Data Link | Status      | Range|
 |-----------------------------------------|-------------|-----------------|------------|
-|(Child widows Data Collection](https://github.com/tapaswenipathak/TheLesserNumber/issues/16)|Null| Not Ready For Review|-|
+|[Child widows Data Collection](https://github.com/tapaswenipathak/TheLesserNumber/issues/16)|Null| Not Ready For Review|-|
 |Field|Value|Example|
 |--|--|--|
 
