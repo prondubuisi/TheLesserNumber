@@ -37,23 +37,18 @@
 
 | Issue                                   | Data Link | Status      | Range|
 |-----------------------------------------|-------------|-----------------|------------|
-|Child widows Data Collection](https://github.com/tapaswenipathak/TheLesserNumber/issues/16)|Null| Not Ready For Review|-|
+|(Child widows Data Collection](https://github.com/tapaswenipathak/TheLesserNumber/issues/16)|Null| Not Ready For Review|-|
 |Field|Value|Example|
 |--|--|--|
 
 
 | Issue                                   | Data Link | Status      | Range|
 |-----------------------------------------|-------------|-----------------|------------|
-|[Sexual orientation Data Summary](https://github.com/tapaswenipathak/TheLesserNumber/issues/26)|[Csv](https://github.com/prondubuisi/TheLesserNumber/blob/master/Global%20LGBTQIlawsData.csv)|Ready For Review| 2017 - 2019|
+|[Below Poverty Line Data Collection](https://github.com/tapaswenipathak/TheLesserNumber/issues/15)|[Csv](PovertyAndEquityData.csv)|Ready For Review| 1974 - 2018|
 |Field|Value|Example|
 |--|--|--|
-|COUNTRY|String|Nigeria|
-|2017|Boolean|true,false|
-|2019|Boolean|true,false|
-*Boolean Values tells if queer relationships are legal or not
-
-| Issue                                   | Data Link | Status      | Range|
-|-----------------------------------------|-------------|-----------------|------------|
-|[People With Disabilities](https://github.com/tapaswenipathak/TheLesserNumber/issues/25)|Null| Not Ready For Review|  - |
-|Field|Value|Example|
-|--|--|--|
+|Series|String|Poverty headcount ratio at national poverty lines (% of population),Number of poor at $1.90 a day (2011 PPP) (millions) |
+|Country|String|Nigeria|
+|Year| Integer||77676776767|
+*Series includes series under gender[here](https://databank.worldbank.org/data/source/poverty-and-equity/Type/METADATA/preview/on#)
+*Year fields have the value for country and series in that particular year, ranges from 1960 - 2018
